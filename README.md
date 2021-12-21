@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasdavidferrero
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning threejs and vue
+- 📫 How to reach me lucasdavidferrero@gmail.com
