@@ -4,3 +4,5 @@
 - StackOverflow: https://stackoverflow.com/users/7723557/lucas-david-ferrero
 - LinkedIn: https://www.linkedin.com/in/lucas-david-ferrero/
 - Website: https://lucasferrero.me/
+
+[![Lucas Stats](https://github-readme-stats.vercel.app/api?username=lucasdavidferrero)](https://github.com/lucasdavidferrero/github-readme-stats)
