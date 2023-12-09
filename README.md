@@ -8,3 +8,6 @@
 [![Lucas Stats](https://github-readme-stats.vercel.app/api?username=lucasdavidferrero&count_private=true&include_all_commits=true)](https://github.com/lucasdavidferrero/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavidferrero&langs_count=8&exclude_repo=TpFinalProg,Programacion3TP)](https://github.com/lucasdavidferrero/github-readme-stats)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasdavidferrero)](https://github.com/anuraghazra/github-readme-stats)
