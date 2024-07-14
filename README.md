@@ -1,5 +1,5 @@
 - 👋 Hola, soy @lucasdavidferrero desde Argentina
-- 👉 Web Developer
+- 👉 Fullstack Javascript Developer
 - 📫 lucasdavidferrero@gmail.com
 - StackOverflow: https://stackoverflow.com/users/7723557/lucas-david-ferrero
 - LinkedIn: https://www.linkedin.com/in/lucas-david-ferrero/
